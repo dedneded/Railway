@@ -1,0 +1,1 @@
+web: gunicorn car_insurance_backend.wsgi --log-file -
